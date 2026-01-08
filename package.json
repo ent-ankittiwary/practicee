@@ -1,0 +1,21 @@
+{
+  "name": "practicee",
+  "version": "1.0.0",
+  "description": "This is 1st Backend practice",
+  "keywords": [
+    "javascript",
+    "node.js"
+  ],
+  "license": "ISC",
+  "author": "ANKIT TIWARY",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start":"node src/app.js",
+    "dev":"nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
