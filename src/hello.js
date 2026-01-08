@@ -1,1 +1,0 @@
-console.log("This is sample to be ignored");
